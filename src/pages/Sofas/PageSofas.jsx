@@ -1,12 +1,12 @@
-// import React from 'react';
-// import CorpoSofa from '../../Components/Sofas/CorpoSofa/Sofa';
+import React from 'react';
+import CorpoSofa from '../../Components/Sofas/CorpoSofa/Sofa';
 
-// function PagesSofas () {
-//     return(
-//         <div>
-//             <CorpoSofa/>
-//         </div>
-//     )
-// }
+function PagesSofas () {
+    return(
+        <div>
+            <CorpoSofa/>
+        </div>
+    )
+}
 
-// export default PagesSofas
+export default PagesSofas
